@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Konstantin and I'm currently start my journey as backend developer
+- Continue to learning C++ and system design after Yandex internship
+- Learning Go from scratch
+- And in free time finishing my master degree on... deformed Lie algebras in string theory :)
+
+
+
 <!--
 **Diromind/Diromind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
